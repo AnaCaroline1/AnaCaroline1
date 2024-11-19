@@ -9,8 +9,8 @@
 
 <div align="right">
   
-  > O motivo pelo qual é importante dar o melhor de si mesmo quando
-   você quer desistir <br>é porque isso ajuda a calejar sua mente. ~ _David Goggins, 2018._<br/>
+  O motivo pelo qual é importante dar o melhor de si mesmo quando
+  você quer desistir <br>é porque isso ajuda a calejar sua mente. ~ _David Goggins, 2018._<br/>
   
 <div/>
   
