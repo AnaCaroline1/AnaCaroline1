@@ -24,25 +24,23 @@
 
 ##
 
-<div align="left">
-  <a href="http://www.linkedin.com/in/ana-caroline-48z9/" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<div align = "left">
+  
+### Desenvolvimento Web & Ciência de Dados
+<br>
 
-### Linguagens de Front-end 
+<div/>
 
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,wordpress,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,py,r,git,github,wordpress,vscode" />
   </a>
 </p>
 
 ##
 
-### Outras
+<div align="left">
+  <a href="http://www.linkedin.com/in/ana-caroline-48z9/" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,mysql,py,r" />
-  </a>
-</p>
+
