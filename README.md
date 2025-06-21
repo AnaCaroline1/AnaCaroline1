@@ -4,15 +4,6 @@
 * 🌱 Aprendendo as linguagens de programação na área de Análise de Dados.
   
 * 🌱 Aprendendo a ser uma UseR! e uma Pythonista.  🎲
-
-<br><br/>
-
-<div align="right">
-  
-  O motivo pelo qual é importante dar o melhor de si mesmo quando
-  você quer desistir <br>é porque isso ajuda a calejar sua mente. ~ _David Goggins, 2018._<br/>
-  
-<div/>
   
 <br><br/>
 
