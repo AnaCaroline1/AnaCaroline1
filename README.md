@@ -1,5 +1,3 @@
-* 🌱 Estudante de Gradução em Estatística pela Universidade Federal do Pará - UFPA.
-  
 * 🌱 Aprendendo as linguagens de programação na área de Análise de Dados.
   
 * 🌱 Aprendendo a ser uma UseR! e uma Pythonista.  🎲
@@ -28,12 +26,6 @@
   </a>
 </p>
 
-##
-
-<div align="left">
-  <a href="http://www.linkedin.com/in/ana-caroline-48z9/" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 ###
 
 <picture>
@@ -43,3 +35,9 @@
 </picture>
 
 ###
+
+##
+
+<div align="left">
+  <a href="http://www.linkedin.com/in/ana-caroline-48z9/" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
